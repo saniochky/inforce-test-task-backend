@@ -1,0 +1,19 @@
+{
+  "name": "inforce-backend",
+  "version": "1.0.0",
+  "description": "Beckend for test task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Oleksandr Dubas",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}

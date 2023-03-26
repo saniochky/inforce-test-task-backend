@@ -1,0 +1,5 @@
+{
+  "port": 3800,
+  "host": "localhost",
+  "mongoUri": "mongodb+srv://artdance:qTJ6yKV6ac1zV4yf@cluster0.vxtvu.mongodb.net/watchlist?retryWrites=true&w=majority"
+}
